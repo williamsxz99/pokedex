@@ -17,7 +17,7 @@ export default function pokemon({ pokeman }) {
       </p>
       <h2 className="text-2xl mt-6 mb-2">Types</h2>
       {pokeman.types.map((type, index) => (
-        <p key="index">{type.type.name}</p>
+        <p key={index}>{type.type.name}</p>
       ))}
       <p className="mt-10 text-center">
         <Link href="/">
