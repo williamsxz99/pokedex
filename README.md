@@ -4,5 +4,5 @@ Check out this project [here](https://pokedex-three-jade.vercel.app/)
 
 ## Learn More
 This project was built with:  
-Next.js  
-Tailwind CSS
+[Next.js](https://nextjs.org/)  
+[Tailwind CSS](https://tailwindcss.com/)
